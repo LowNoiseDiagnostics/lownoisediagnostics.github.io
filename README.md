@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="/assets/logo.jpg" width="80" alt="Low-Noise Diagnostics logo">
-</p>
 ### **Low-Noise Diagnostics**
 
 *Structural clarity for complex organisational environments.*
