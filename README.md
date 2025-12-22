@@ -1,9 +1,9 @@
-### Low-Noise Diagnostics
+### **Low-Noise Diagnostics**
 
 *Structural clarity for complex organisational environments.*
 
 Low-Noise Diagnostics produces concise, model-assisted, human-curated structural analyses.
-Working on drift, friction, alignment and decision architecture — without coaching, therapy, or strategic prescription.
+Working on drift, friction, alignment, and decision architecture — without coaching, therapy, or strategic prescription.
 
 Outputs are designed as **quiet, high-signal diagnostics** for teams, NGOs, and institutions operating under complexity.
 
@@ -16,8 +16,8 @@ Outputs are designed as **quiet, high-signal diagnostics** for teams, NGOs, and 
 - Leadership Alignment Diagnostic
 - Exploratory Slot (case-dependent)
 
-**What LND does not provide:** Operational guidance, HR interventions, legal advice, coaching, or implementation.
+**Not included:** operational guidance, HR interventions, legal advice, coaching, or implementation.
 
-**Workflow:** Asynchronous, low-interaction, written diagnostics only.
+**Workflow:** asynchronous, low-interaction, written diagnostics only.
 
 **Website / shop:** 👉 https://ko-fi.com/lownoisediagnostics
