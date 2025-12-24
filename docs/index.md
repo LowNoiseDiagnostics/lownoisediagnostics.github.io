@@ -8,30 +8,26 @@ Outputs are designed as **quiet, high-signal diagnostics** for teams, NGOs, and 
 
 ---
 
-## Services
-- Organizational Drift Diagnostic  
-- Decision-Making Breakdown Diagnostic  
-- Cross-Team Collaboration Diagnostic  
-- Strategic Load Assessment  
-- Leadership Alignment Diagnostic  
-- Exploratory Slot (case-dependent)
+### Services
 
-All services are asynchronous, analysis-only, and minimal-interaction by design.
-
----
-
-## Sample Diagnostics
-Explore example outputs used for demonstration:
-
-👉 [Sample Diagnostics Folder](https://github.com/lowNoiseDiagnostics/lownoisediagnostics.github.io/tree/main/samples)
+- **Organizational Drift Diagnostic**
+- **Decision-Making Breakdown Diagnostic**
+- **Cross-Team Collaboration Diagnostic**
+- **Strategic Load Assessment**
+- **Leadership Alignment Diagnostic**
+- **Exploratory Slot (case-dependent)**
 
 ---
 
-## Shop
-Diagnostics can be purchased here:
-
-👉 https://ko-fi.com/lownoisediagnostics
+### Samples  
+See examples of diagnostic outputs:  
+[Sample Diagnostics](https://github.com/LowNoiseDiagnostics/lownoisediagnostics.github.io/tree/main/samples "Open sample diagnostics folder on GitHub")
 
 ---
 
-*Model-assisted. Human-curated. High-signal.*
+**Workflow:** asynchronous, low-interaction, written diagnostics only.  
+**Shop:** 👉 [Ko-fi](https://ko-fi.com/lownoisediagnostics "Open Low-Noise Diagnostics Ko-fi shop")
+
+---
+
+**Model-assisted. Human-curated. High-signal.**
