@@ -37,9 +37,9 @@ Structural diagnostic only. No coaching, implementation, HR or legal advice.
 ### Workflow  
 Asynchronous, low-interaction, written diagnostics only.
 
-### Sample Diagnostics  
-Reference cases available here:  
-→ [Sample Diagnostics](./samples/)
+### Sample Diagnostics
+Examples of past structural analyses  
+→ https://github.com/LowNoiseDiagnostics/lownoisediagnostics.github.io/tree/main/samples#sample-diagnostics
 
 ### Website / Shop  
 https://ko-fi.com/lownoisediagnostics
