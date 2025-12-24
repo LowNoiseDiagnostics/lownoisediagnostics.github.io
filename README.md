@@ -39,7 +39,7 @@ Asynchronous, low-interaction, written diagnostics only.
 
 ### Sample Diagnostics
 Examples of past structural analyses  
-→ https://github.com/LowNoiseDiagnostics/lownoisediagnostics.github.io/tree/main/samples#sample-diagnostics
+→ [Sample Diagnostics](https://github.com/LowNoiseDiagnostics/lownoisediagnostics.github.io/blob/main/samples/README.md "Open sample diagnostics overview on GitHub")
 
 ### Website / Shop  
-https://ko-fi.com/lownoisediagnostics
+→ [Ko-fi](https://ko-fi.com/lownoisediagnostics "Open Low-Noise Diagnostics Ko-fi shop")
