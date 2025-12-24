@@ -21,7 +21,7 @@ Outputs are designed as **quiet, high-signal diagnostics** for teams, NGOs, and 
 
 ### Samples  
 See examples of diagnostic outputs:  
-[Sample Diagnostics](https://github.com/LowNoiseDiagnostics/lownoisediagnostics.github.io/tree/main/samples#sample-diagnostics "Open sample diagnostics overview on GitHub")
+[Sample Diagnostics](https://github.com/LowNoiseDiagnostics/lownoisediagnostics.github.io/blob/main/samples/README.md "Open sample diagnostics overview on GitHub")
 
 ---
 
