@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: Low-Noise Diagnostics
+markdown: GFM
+plugins:
+  - jekyll-seo-tag
