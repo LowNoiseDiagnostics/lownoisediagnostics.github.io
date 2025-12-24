@@ -1,7 +1,7 @@
 # Sample Diagnostics
 
 Examples of structural analysis outputs produced by Low-Noise Diagnostics.
-Each sample illustrates a different class of organisational drift.
+Each sample illustrates a different class of organizational drift.
 
 ---
 
@@ -20,3 +20,8 @@ Each sample illustrates a different class of organisational drift.
 ### Sample Diagnostic #3 – Consortium Divergence
 *Systemic divergence in a multi-country consortium; highlights incompatible operating realities and trust erosion.*
 → PDF included in this folder.
+
+---
+
+**Interested in a diagnostic for your organization?**  
+Visit [ko-fi.com/lownoisediagnostics](https://ko-fi.com/lownoisediagnostics)
