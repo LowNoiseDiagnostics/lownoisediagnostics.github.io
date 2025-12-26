@@ -1,5 +1,4 @@
-<link rel="apple-touch-icon" href="/favicon.png">
-# Low-Noise Diagnostics  
+ Low-Noise Diagnostics  
 *Structural clarity for complex organisational environments.*
 
 Low-Noise Diagnostics produces concise, model-assisted, human-curated structural analyses.  
