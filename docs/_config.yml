@@ -1,6 +1,11 @@
 theme: jekyll-theme-minimal
 title: Low-Noise Diagnostics
-favicon: favicon.png
+favicon: /favicon.ico
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /favicon.png
 markdown: GFM
 plugins:
   - jekyll-seo-tag
