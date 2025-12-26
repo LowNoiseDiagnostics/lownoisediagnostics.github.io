@@ -1,3 +1,4 @@
+<link rel="apple-touch-icon" href="/favicon.png">
 # Low-Noise Diagnostics  
 *Structural clarity for complex organisational environments.*
 
