@@ -1,11 +1,16 @@
 theme: jekyll-theme-minimal
 title: Low-Noise Diagnostics
+
+# primary favicon (legacy + windows + default fallback)
 favicon: /favicon.ico
+
+# additional favicon hints for modern browsers
 defaults:
   - scope:
       path: ""
     values:
       image: /favicon.png
+
 markdown: GFM
 plugins:
   - jekyll-seo-tag
