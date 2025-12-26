@@ -1,4 +1,5 @@
 <link rel="apple-touch-icon" href="/favicon.png">
+<link rel="stylesheet" href="/assets/css/lnd.css">
 
 # Low-Noise Diagnostics  
 *Structural clarity for complex organisational environments.*
