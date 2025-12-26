@@ -14,3 +14,11 @@ defaults:
 markdown: GFM
 plugins:
   - jekyll-seo-tag
+
+  # Add this block:
+sass:
+  style: compressed
+
+# Tell Jekyll to include your stylesheet
+includes:
+  - /assets/css/lnd.css
