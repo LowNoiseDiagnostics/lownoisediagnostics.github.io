@@ -39,7 +39,8 @@ Asynchronous, low-interaction, written diagnostics only.
 
 ---
 
-For all enquiries regarding these diagnostics, contact: lownoisediagnostics@proton.me
+Low-Noise Diagnostics operates as an independent micro-service.
+For all enquiries, contact: lownoisediagnostics@proton.me
 
 ---
 
