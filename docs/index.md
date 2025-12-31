@@ -39,4 +39,8 @@ Asynchronous, low-interaction, written diagnostics only.
 
 ---
 
+For all enquiries regarding these diagnostics, contact: lownoisediagnostics@proton.me
+
+---
+
 **Model-assisted. Human-curated. High-signal.**
