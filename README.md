@@ -43,3 +43,7 @@ Examples of past structural analyses
 
 ### Website / Shop  
 → [Ko-fi](https://ko-fi.com/lownoisediagnostics "Open Low-Noise Diagnostics Ko-fi shop")
+
+---
+
+For all enquiries regarding these diagnostics, contact: lownoisediagnostics@proton.me
